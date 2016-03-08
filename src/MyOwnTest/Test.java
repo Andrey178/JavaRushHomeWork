@@ -36,7 +36,8 @@ public static void main(String[] args){
         private String address;
 //            String name; int weight, age; String color, address;
         public Cat(String name) {
-            this.name = name;
+//            this.name = name;
+            this(name, 84);
         }
         public Cat(String name, int weight, int age) {
             this.name = name;
