@@ -32,3 +32,17 @@ public class Test2
 
     }
 }
+
+
+
+/*
+        if (maximum > 0)
+        {
+            int newmax = maximum;
+            for (int count = maximum; count > 0; count--)
+            {
+                int newint = Integer.parseInt(reader.readLine());
+                newmax = (newmax <= newint) ? newint : newmax;
+            }
+            maximum = newmax;
+ */
