@@ -61,13 +61,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37226278">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.6618005">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -120,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java" />
       </list>
     </option>
   </component>
@@ -1064,7 +1063,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457718862123</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Made level06\lesson11\home06 work">
+      <created>1457719015174</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1457719015174</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1146,7 +1151,8 @@
     <MESSAGE value="Made level06\lesson11\home03 work" />
     <MESSAGE value="Made level06\lesson11\home04 work" />
     <MESSAGE value="Made level06\lesson11\home05 work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made level06\lesson11\home05 work" />
+    <MESSAGE value="Made level06\lesson11\home06 work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made level06\lesson11\home06 work" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1298,6 +1304,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6455696">
           <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1451,11 +1458,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37226278">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.5377129">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
           <folding>
+            <element signature="e#242#243#0" expanded="true" />
             <element signature="e#303#304#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6618005">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
