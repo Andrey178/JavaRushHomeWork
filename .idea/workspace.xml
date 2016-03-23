@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="Made level07\lesson12\bonus02 work&#10;добавил обыстрый вариант копирования System.arraycopy">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyOwnTest/Test4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyOwnTest/Test5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyOwnTest/ls08tsk05.java" />
+    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -66,8 +63,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level08/lesson11/home01/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="283">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -978,7 +975,14 @@
       <option name="project" value="LOCAL" />
       <updated>1458494303661</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Made level08\lesson11\home01 work">
+      <created>1458760445948</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1458760445948</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1042,7 +1046,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="MAXIMUM_HISTORY_ROWS" value="100000" />
-    <MESSAGE value="Made level05\lesson12\home02 work" />
     <MESSAGE value="Made level05\lesson12\home03 work" />
     <MESSAGE value="Made level05\lesson12\home04 work" />
     <MESSAGE value="Made level05\lesson12\home05 work" />
@@ -1067,7 +1070,8 @@
     <MESSAGE value="Made level07\lesson12\bonus01 work" />
     <MESSAGE value="Made level07\lesson12\bonus02 work" />
     <MESSAGE value="Made level07\lesson12\bonus02 work&#10;добавил обыстрый вариант копирования System.arraycopy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made level07\lesson12\bonus02 work&#10;добавил обыстрый вариант копирования System.arraycopy" />
+    <MESSAGE value="Made level08\lesson11\home01 work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made level08\lesson11\home01 work" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1466,15 +1470,15 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="1430" column="0" selection-start-line="1430" selection-start-column="0" selection-end-line="1430" selection-end-column="0" />
+          <caret line="1440" column="0" selection-start-line="1440" selection-start-column="0" selection-end-line="1440" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level08/lesson11/home01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="283">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding />
         </state>
       </provider>
