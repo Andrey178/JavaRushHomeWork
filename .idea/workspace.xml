@@ -51,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level11/lesson11/home08/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level11/lesson11/home10/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level11/lesson11/bonus01/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level11/lesson11/bonus02/Solution.java" />
       </list>
     </option>
   </component>
@@ -983,6 +984,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level11/lesson11/bonus02/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
