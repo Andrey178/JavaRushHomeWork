@@ -1,0 +1,46 @@
+package com.javarush.test.level15.lesson12.home07;
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+/* Сначала были эти импорты
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+*/
+/* Файл в статическом блоке
+1. Инициализируй константу Constants.FILE_NAME полным путем к файлу с данными, который содержит несколько строк.
+2. В статическом блоке считай из файла с именем Constants.FILE_NAME все строки и добавь их по-отдельности в List lines.
+3. Закрой поток ввода методом close().
+*/
+
+public class Solution {
+    public static List<String> lines = new ArrayList<String>();
+    static {
+        try
+        {
+            String line;
+            BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(Constants.FILE_NAME)));
+            while ((line = reader.readLine()) != null)
+            {
+                lines.add(line);
+            }
+            reader.close();
+/* Вариант со сканером
+            Scanner scanner = new Scanner(new FileReader(Constants.FILE_NAME));
+                while (scanner.hasNext()){
+                    lines.add(scanner.next());
+                }
+                scanner.close();
+*/
+        } catch (Exception e) {}
+
+    }
+    public static void main(String[] args) {
+        System.out.println(lines);
+    }
+}
