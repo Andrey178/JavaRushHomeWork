@@ -1,7 +1,6 @@
-package com.javarush.test.level18.lesson08.task04;
+package com.javarush.testweb.lv18.ls08.ts04;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 /* UnsupportedFileName

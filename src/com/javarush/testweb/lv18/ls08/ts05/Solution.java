@@ -1,4 +1,4 @@
-package com.javarush.test.level18.lesson08.task05;
+package com.javarush.testweb.lv18.ls08.ts05;
 
 import java.util.List;
 
@@ -8,7 +8,8 @@ import java.util.List;
 Метод getHeaderText должен возвращать текст в верхнем регистре - используйте метод toUpperCase()
 */
 
-public class Solution {
+public class Solution
+{
     public class TableInterfaceWrapper implements ATableInterface
     {
         private ATableInterface ati;

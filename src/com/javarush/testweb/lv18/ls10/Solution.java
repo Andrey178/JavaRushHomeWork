@@ -1,4 +1,4 @@
-package com.javarush.test.level18.lesson10.home01;
+package com.javarush.testweb.lv18.ls10;
 
 /* Английские буквы
 В метод main первым параметром приходит имя файла.
@@ -7,9 +7,12 @@ package com.javarush.test.level18.lesson10.home01;
 Закрыть потоки. Не использовать try-with-resources
 */
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 
-public class Solution {
+public class Solution
+{
     public static void main(String[] args) throws IOException
     {
         String symbols = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM";

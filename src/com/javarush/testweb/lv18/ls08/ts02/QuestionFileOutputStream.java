@@ -1,7 +1,6 @@
-package com.javarush.test.level18.lesson08.task02;
+package com.javarush.testweb.lv18.ls08.ts02;
 
 import java.io.*;
-
 
 /* Расширяем AmigoOutputStream
 Используя шаблон проектирования Wrapper (Decorator) расширьте функциональность AmigoOutputStream
